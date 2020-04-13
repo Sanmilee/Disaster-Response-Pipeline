@@ -37,6 +37,11 @@ As part of Udacity Data Scientist NanoDegree Project for categorizing emergency 
 ```bat
 python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
 ```
+![images1](images/Capture1.PNG)
+
+
+
+
 
 - To train ML model on the database contents
 
