@@ -11,7 +11,7 @@ Building a ML pipeline to categorize emergency messages based on the needs of se
 
 
 ### 1. Project Motivation
-As past of Udacity Data Scientist NanoDegree Project for categorizing emergency messages for first responder services 
+As part of Udacity Data Scientist NanoDegree Project for categorizing emergency messages for first responder services 
 
 ### 2. Requirement
 - Python 3
@@ -47,6 +47,6 @@ python run.py
 
 
 
-### Licensing and Acknowledgements
+### 5. Licensing and Acknowledgements
 Credit to Udacity Data Science Naanodegree for the knoweldge and the Figure8 corporation for the data. Feel free to use the code here as you would like!
 
