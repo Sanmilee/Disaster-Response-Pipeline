@@ -34,16 +34,21 @@ As part of Udacity Data Scientist NanoDegree Project for categorizing emergency 
 ### 4. Implementation
 - To load the data from csv files and clean the data into the daatbase
 
+```bat
 python data/process_data.py data/disaster_messages.csv data/disaster_categories.csv data/DisasterResponse.db
+```
 
 - To train ML model on the database contents
 
+```bat
 python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
+```
 
 - To load up the web interface
+```bat
 cd app
 python run.py
-
+```
 
 
 
