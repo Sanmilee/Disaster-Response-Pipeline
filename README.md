@@ -49,11 +49,15 @@ python data/process_data.py data/disaster_messages.csv data/disaster_categories.
 python models/train_classifier.py data/DisasterResponse.db models/classifier.pkl
 ```
 
+![images2](images/Capture2.PNG)
+
+
 - To load up the web interface
 ```bat
 cd app
 python run.py
 ```
+![images3](images/Capture3.PNG)
 
 
 
