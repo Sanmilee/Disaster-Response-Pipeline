@@ -60,7 +60,8 @@ python run.py
 ![images3](images/Capture3.PNG)
 
 
-- Web interface
+- Web Interface
+
 ![images4](images/Capture4.PNG)
 
 
